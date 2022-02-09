@@ -105,4 +105,4 @@ function automate(){
 setInterval(function(){
 
     automate()
-},500)
+},3000)
